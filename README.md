@@ -74,7 +74,7 @@ Builders **MUST** implement sandwich detection before submitting bids:
 | Uniswap V4     | ✅ Supported | `0x40e9cecb...`                 |
 | PancakeSwap V2 | ✅ Supported | Compatible                      |
 | PancakeSwap V3 | ✅ Supported | Compatible                      |
-| PancakeSwap V4 | ✅ Supported | Compatible                      |
+| PancakeSwap V4 | ✅ Supported | `0x04206ad2...` `0x3e8aae37...` |
 | DODOSwap       | ✅ Supported | `0xc2c0245e...`                 |
 | FourMeme       | ✅ Supported | `0x7db52723...` `0x0a5575b3...` |
 
